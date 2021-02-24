@@ -1,0 +1,34 @@
+[
+  {
+    "email": "user1@xxx.local",
+    "full_name": "User 1",
+    "user_name": "user1",
+    "password": "user1",
+    "status": "locked",
+    "roles": [2]
+  },
+  {
+    "email": "user2@xxx.local",
+    "full_name": "User 2",
+    "user_name": "user2",
+    "password": "user2",
+    "status": "active",
+    "roles": [3]
+  },
+  {
+    "email": "user3@xxx.local",
+    "full_name": "User 3",
+    "user_name": "user3",
+    "password": "user3",
+    "status": "pending",
+    "roles": [4]
+  },
+  {
+    "email": "user4@xxx.local",
+    "full_name": "User 4",
+    "user_name": "user4",
+    "password": "user4",
+    "status": "pending",
+    "roles": [5]
+  }
+]

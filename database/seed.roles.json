@@ -1,0 +1,6 @@
+[
+  { "role": "CONTACT", "summary": "Contact management" },
+  { "role": "PRODUCT", "summary": "Product management" },
+  { "role": "ARTICLE", "summary": "Article management" },
+  { "role": "USER", "summary": "User management" }
+]

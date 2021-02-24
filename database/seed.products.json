@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Moonlight",
+    "summary": "Warning: it’s a tearjerker. Rated R, this film tells the story of a struggling young man’s path of self-discovery. The film follows the main, Chiron (played by Alex Hibbert, Ashton Sanders, and Trevante Rhodes), as he grows up in the Miami projects with his drug-addicted mother (played flawlessly by Naomie Harris), who is neglectful and abusive. Life advice comes from the neighborhood drug dealer, and you watch as Chiron struggles to grow up all the while falling in love and battling with his sexuality. This has been called the best film of the year by many critics, and is especially important viewing right now.",
+    "photos": "[\"https://coveteur.com/wp-content/uploads/2017/01/2016-best-movies-3.jpg\"]",
+    "stock": 20,
+    "order_count": 200,
+    "price": 2235,
+    "status": "active",
+    "view_count": 44,
+    "like_count": 34,
+    "createdAt": "2020-11-08T07:30:48.470Z",
+    "updatedAt": "2020-11-08T12:41:32.405Z",
+    "UserId": null
+  },
+  {
+    "id": 2,
+    "name": "Hidden Figures",
+    "summary": "To start, this PG drama is based on a true story, which right off the bat tells you that it’s going to be great. Taraji P. Hensen plays the role of Katherine G. Johnson, a female mathematician who, alongside her fellow mathematician sidekicks, Dorothy Vaughn and Mary Jackson, climbed the ranks of NASA and were the “human computers” and brains behind the launch of astronaut John Glenn into space. If this one doesn’t convince you that you can do anything you put your mind to, we don’t know what will.",
+    "photos": "[\"https://coveteur.com/wp-content/uploads/2017/01/2016-best-movies-5.jpg\"]",
+    "stock": 230,
+    "order_count": 4040,
+    "price": 22,
+    "status": "disabled",
+    "view_count": 4433,
+    "like_count": 334,
+    "createdAt": "2020-11-08T07:30:48.470Z",
+    "updatedAt": "2020-11-08T12:42:12.401Z",
+    "UserId": null
+  },
+  {
+    "id": 3,
+    "name": "La La Land",
+    "summary": "La La Land, as in the movie that won the most Golden Globes ever. Emma Stone (Mia) and Ryan Gosling (Sebastian) are reunited in this musical, and their chemistry? Unbelievable. Mia is an aspiring actress, while Sebastian is a jazz musician. Both are living in L.A., struggling to make ends meet, when Sebastian makes a life and career decision that Mia a) knows is not in his heart and b) doesn’t agree with.",
+    "photos": "[\"https://coveteur.com/wp-content/uploads/2017/01/2016-best-movies-2.jpg\"]",
+    "stock": 120,
+    "order_count": 2300,
+    "price": 2320,
+    "status": "draft",
+    "view_count": 4240,
+    "like_count": 1340,
+    "createdAt": "2020-11-08T07:30:48.470Z",
+    "updatedAt": "2020-11-08T12:40:15.221Z",
+    "UserId": null
+  },
+  {
+    "id": 4,
+    "name": "Manchester By The Sea",
+    "summary": "Following the death of his brother, Lee Chandler (played by Casey Affleck) discovers that he is the guardian of his 16-year-old nephew, Patrick (Lucas Hedges). With his wife, Randi (Michelle Williams), in tow, Lee is forced to leave his job and return to Manchester-by-the-Sea. Lee has a hard time returning to his life in the hometown he fled some years following an unfortunate incident. Caring for a teen proves to be no easy feat for Lee, who finds out that his nephew has two girlfriends, one of them being Sylvie, played by Kara Hayward. Manchester By The Sea is a true drama that will have your eyes glued to the screen.",
+    "photos": "[\"https://coveteur.com/wp-content/uploads/2017/01/2016-best-movies-7.jpg\"]",
+    "stock": null,
+    "order_count": null,
+    "price": 443,
+    "status": "active",
+    "view_count": 3,
+    "like_count": 3,
+    "createdAt": "2020-11-08T09:41:44.353Z",
+    "updatedAt": "2020-11-08T12:43:05.103Z",
+    "UserId": null
+  }
+]
